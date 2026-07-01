@@ -1,3 +1,5 @@
+:: keyboard shortcut for hibernate immediately: WIN + X, U, H
+
 @echo off
 setlocal
 :PROMPT
